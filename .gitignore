@@ -131,3 +131,9 @@ example*
 LICENSE
 .pre-commit*
 .gitmodules
+dataset.xlsx
+text_result_re-result_origin.csv
+csv/text_result_origin.csv
+csv/text_origin.csv
+csv/text_result.csv
+bert_sum.py
